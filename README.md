@@ -5,4 +5,6 @@ Nama: Muhammad Fathur Rizqi
 NIM: D1041221020
 
 
-Note: Ketika saya membuat proyeknya, dia otomatis memilih ke tsx
+Note: 
+Izin bu, ketika saya membuat proyeknya, dia otomatis memilih ke tsx.
+Sama mohon maaf juga bu, sebelumnya saya sempat error dan malah mengakses semua data yang ada di proyek lama saya di akun lama, itu sebabnya ada kontributor tambahan di tab contibutors.
